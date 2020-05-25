@@ -8,7 +8,7 @@
 
 # Project Purpose
 
-   I've always been interested to implement a off the shelf sentiment analysis package to see how well it would work. Text sentiment analysis is really interesting to me in two contexts: Customer Reviews, and politics. The AirBnB dataset, as part of the Udacity nanodegree program, gave me a great oppertunity to explore the validatity of using text sentiment analysis on reviews and some of the possible business cases this would drive. Please see the blog post here for this analysis.
+   I've always been interested to implement a off the shelf sentiment analysis package to see how well it would work. Text sentiment analysis is really interesting to me in two contexts: Customer Reviews, and politics. The AirBnB dataset, as part of the Udacity nanodegree program, gave me a great opportunity to explore the validity of using text sentiment analysis on reviews and some of the possible business cases this would drive. Please see the blog post here for this analysis.
     
 https://medium.com/@mora07801/sentiment-analysis-is-cool-88a9bd4bd6b
 
